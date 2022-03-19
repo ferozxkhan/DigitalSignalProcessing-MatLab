@@ -56,11 +56,11 @@
 
     >How to estiamte the power spectrum density (PSD) of signals.
 
-14. [Parametric signal processing](https://github.com/ferozxkhan/DSPusingMATLAB/blob/main/lectures-stanford/14_parametric_signal_processing)
+14. [Parametric signal processing](https://github.com/ferozxkhan/DSPusingMATLAB/blob/main/lectures-stanford/14_parametric_signal_processing.pdf)
 
     >Introduction to parametric signal processing and how to use systems to represent complicated signals.
 
-15. [Review and conclusions](https://github.com/ferozxkhan/DSPusingMATLAB/blob/main/lectures-stanford/15_review_and_conclusions)
+15. [Review and conclusions](https://github.com/ferozxkhan/DSPusingMATLAB/blob/main/lectures-stanford/15_review_and_conclusions.pdf)
 
     >Recap of the most important concepts covered throughout the course.
 
