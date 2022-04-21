@@ -1,5 +1,5 @@
 # Digital Signal Processing Using MatLab Programming
-[Programs on DSP Using MatLab Programming - Coursework during Undergrad](https://github.com/ferozxkhan/DSPusingMATLAB/blob/main/DSP-Minor-Project.pdf)
+[Programs on DSP Using MatLab Programming - Coursework during Undergrad](https://github.com/ferozxkhan/DigitalSignalProcessing-MatLab/blob/main/MatLab-Programs.pdf)
 
 
 # Lecture Notes by Stanford University
