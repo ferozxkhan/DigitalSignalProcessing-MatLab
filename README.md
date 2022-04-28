@@ -2,7 +2,7 @@
 [Programs on DSP Using MatLab Programming - Coursework during Undergrad](https://github.com/ferozxkhan/DigitalSignalProcessing-MatLab/blob/main/MatLab-Programs.pdf)
 
 
-# Lecture Notes by Stanford University
+# Lecture Notes by Stanford
 
 1. [Introduction](https://github.com/ferozxkhan/DSPusingMATLAB/blob/main/lectures-stanford/01_introduction.pdf)
 
