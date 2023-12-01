@@ -2,7 +2,7 @@
 [Minor Coursework Project [Undergrad]](https://github.com/ferozxkhan/DigitalSignalProcessing-MatLab/blob/main/MatLab-Programs.pdf)
 
 
-# EE264 : DSP [Lecture Notes] [Stanford University]
+# [EE264 : DSP] [Lecture Notes] [Stanford University]
 
 1. [Introduction](https://github.com/ferozxkhan/DSPusingMATLAB/blob/main/lectures-stanford/01_introduction.pdf)
 
