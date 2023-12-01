@@ -1,5 +1,5 @@
 # Digital Signal Processing Using MatLab
-[DSP using MatLab & Simulink Programming - Minor Coursework Project during Undergrad](https://github.com/ferozxkhan/DigitalSignalProcessing-MatLab/blob/main/MatLab-Programs.pdf)
+[DSP using MatLab & Simulink Programming - Minor Coursework Project [Undergrad]](https://github.com/ferozxkhan/DigitalSignalProcessing-MatLab/blob/main/MatLab-Programs.pdf)
 
 
 # EE264 : DSP [Lecture Notes] [Stanford University]
