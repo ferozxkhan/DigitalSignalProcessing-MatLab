@@ -1,4 +1,4 @@
-# Digital Signal Processing Using MatLab & Simulink - Programming
+# Digital Signal Processing Using MatLab Programming
 [Minor Coursework Project [Undergrad]](https://github.com/ferozxkhan/DigitalSignalProcessing-MatLab/blob/main/MatLab-Programs.pdf)
 
 
